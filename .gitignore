@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*.so
+
+# Backup files
+*.bak
+*.swp
+
+# CSV/data/output files
+contacts.csv
+
+# VS Code settings
+.vscode/
+
+# Environment
+.env
+*.env
+
+# Mac/Linux system files
+.DS_Store
